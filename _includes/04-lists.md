@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+*Family
+  *Jessica
+  *JR.
+  *Joseph
+*Career 
+  *Ford
+*Passions
+  *SalesForce
+  *SoftWare Dev.
+  *Programming 	
