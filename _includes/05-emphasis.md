@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* __SF__
+  * _Security_
+  * _User Mgt_
+  * _Apps_
+* __SW Dev.__
+  * _GitHub_
+  * _Prog Lang. (HTML,CSS.Java,Python)_
+  * _Apex/SFDX_
+* __Ford__
+  * _Production_
+  * _Frames_
+  * _Engines_
